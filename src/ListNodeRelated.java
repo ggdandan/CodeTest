@@ -15,7 +15,6 @@ class ListNode {
     }
 }
 
-
 class TreeNode {
     public int key;
     public TreeNode left;
@@ -26,8 +25,7 @@ class TreeNode {
     }
 }
 
-
-public class Solution {
+class Solution {
 
     int gN;
 
